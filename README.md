@@ -8,7 +8,7 @@
 
 
 ## :sassy_man:  About me
-- :school: Senior Engineer with 10+ years of Enterprise Experience Yet Always Learning 
+- :school: Always Learning Senior Engineer with 10+ years of Enterprise Experience 
 - :thinking: Thought Leader Passionate about transforming ideas into reality using code. 
 - :computer: Design, Develop and Delivery of IAAS, SAAS & PAAS solutions for Windows, Mac and Linux
 - :business_suit_levitating: Innovative, Strategic, Creator, with proven Business Acumen.
