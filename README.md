@@ -60,7 +60,7 @@
   </a>
 </p>
 
-### 👉 Frontend Development
+### 👉 Frontend & Backend Development
 <p align="center"> 
   <a href="https://flask.palletsprojects.com/" target="_blank">
     <img alt="FLASK" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
