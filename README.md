@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Thomas Tyson <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Thomas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Innovative%2C+Strategic%2C+Creator.;Security%2C+Scalability+%26+Reliability;Docker%2C+Puppet%2C+Chef%2C+GO%2C+Python"></a>
 </p>
