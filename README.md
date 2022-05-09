@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**ten16thomasg/ten16thomasg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi , I'm Thomas Tyson <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Innovative%2C+Strategic%2C+creator.;Security%2C+Scalability+%26+Reliability;Docker%2C+Puppet%2C+Chef%2C+GO%2C+Python"></a>
@@ -57,7 +52,7 @@
    </a>
   &emsp;
   <a href="https://www.ruby-lang.org/" target="_blank"> 
-    <img alt="Ruby" src="	https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
+    <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
@@ -67,14 +62,6 @@
 
 ### 👉 Frontend Development
 <p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank">
     <img alt="FLASK" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   </a> 
